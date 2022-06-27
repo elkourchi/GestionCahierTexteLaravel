@@ -646,7 +646,7 @@ C'est pas pour un verre de whisky du gouvernement que je voudrais
 vous conter une menterie. Il me faudrait quelque chose de plus
 sérieux que ça que je me mette en conscience en temps d'élection. Les
 gros bonnets se vendent trop cher à Ottawa comme à Québec, pour que
-les gens du comté de Sorel passent pour gâter les prix. Je vous dirai
+les gens du comté de Sorel passent pour gâter les cours. Je vous dirai
 donc la vérité et rien que la vérité, comme on dit à la cour de Sorel
 quand on est appelé comme témoin. Pour des loups-garous, j'en ai vu
 assez pour faire un régiment, dans mon jeune temps, lorsque je
@@ -1417,7 +1417,7 @@ C'était là le verdict populaire!
 
 Le médecin qui était célibataire et qui dînait chez le curé tous les
 dimanches, lui souffla un mot de la chose pendant le repas, et il fut
-convenu entre eux qu'il fallait empêcher ce mariage à tout prix. Ils
+convenu entre eux qu'il fallait empêcher ce mariage à tout cours. Ils
 pensaient que ce serait un crime de permettre à Macloune malade,
 infirme, rachitique et difforme comme il l'était, de devenir le
 père d'une progéniture qui serait vouée d'avance à une condition

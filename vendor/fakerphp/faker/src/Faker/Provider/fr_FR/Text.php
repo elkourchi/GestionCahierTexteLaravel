@@ -842,7 +842,7 @@ des étourdissements; elle demanda si les bains de mer lui seraient
 utiles; elle se mit à causer du couvent, Charles de son collège,
 les phrases leur vinrent. Ils montèrent dans sa chambre. Elle lui
 fit voir ses anciens cahiers de musique, les petits livres qu'on
-lui avait donnés en prix et les couronnes en feuilles de chêne,
+lui avait donnés en cours et les couronnes en feuilles de chêne,
 abandonnées dans un bas d'armoire. Elle lui parla encore de sa
 mère, du cimetière, et même lui montra dans le jardin la plate-
 bande dont elle cueillait les fleurs, tous les premiers vendredis
@@ -1693,7 +1693,7 @@ elles avaient des existences où le coeur se dilate, où les sens
 s'épanouissent. Mais elle, sa vie était froide comme un grenier
 dont la lucarne est au nord, et l'ennui, araignée silencieuse,
 filait sa toile dans l'ombre à tous les coins de son coeur. Elle
-se rappelait les jours de distribution de prix, où elle montait
+se rappelait les jours de distribution de cours, où elle montait
 sur l'estrade pour aller chercher ses petites couronnes. Avec ses
 cheveux en tresse, sa robe blanche et ses souliers de prunelle
 découverts, elle avait une façon gentille, et les messieurs, quand
@@ -4660,7 +4660,7 @@ clerc, qui se mit à marcher devant lui dans l'escalier.
 des battements de coeur et se perdait en conjectures.
 
 Enfin Charles, ayant fermé la porte, le pria de voir lui-même à
-Rouen quels pouvaient être les prix d'un beau daguerréotype;
+Rouen quels pouvaient être les cours d'un beau daguerréotype;
 c'était une surprise sentimentale qu'il réservait à sa femme, une
 attention fine, son portrait en habit noir. Mais il voulait
 auparavant savoir à quoi s'en tenir; ces démarches ne devaient pas
@@ -6099,7 +6099,7 @@ aussi complet.
 -- Oh! non, n'est-ce pas, je serai quelque chose dans votre
 pensée, dans votre vie?
 
-«Race porcine, prix ex aequo: à MM. Lehérissé et Cullembourg;
+«Race porcine, cours ex aequo: à MM. Lehérissé et Cullembourg;
 soixante francs!»
 
 Rodolphe lui serrait la main, et il la sentait toute chaude et
@@ -6131,7 +6131,7 @@ leurs doigts se confondirent.
 
 «Catherine-Nicaise-Élisabeth Leroux, de Sassetot-la-Guerrière,
 pour cinquante-quatre ans de service dans la même ferme, une
-médaille d'argent -- du prix de vingt-cinq francs!»
+médaille d'argent -- du cours de vingt-cinq francs!»
 
 «Où est-elle, Catherine Leroux?» répéta le Conseiller.
 
@@ -8895,7 +8895,7 @@ fourniture de cidre pour l'hôpital de Neufchâtel; M. Guillaumin
 lui promettait des actions dans les tourbières de Grumesnil, et il
 rêvait d'établir un nouveau service de diligences entre Argueil et
 Rouen, qui ne tarderait pas, sans doute, à ruiner la guimbarde du
-Lion d'or, et qui, marchant plus vite, étant à prix plus bas et
+Lion d'or, et qui, marchant plus vite, étant à cours plus bas et
 portant plus de bagages, lui mettrait ainsi dans les mains tout le
 commerce d'Yonville.
 
@@ -11577,9 +11577,9 @@ Ce mot lui arriva comme une bouffée d'air frais.
 
 Il revint la semaine suivante, et se vanta d'avoir, après force
 démarches, fini par découvrir un certain Langlois qui, depuis
-longtemps, guignait la propriété sans faire connaître son prix.
+longtemps, guignait la propriété sans faire connaître son cours.
 
--- N'importe le prix! s'écria-t-elle.
+-- N'importe le cours! s'écria-t-elle.
 
 Il fallait attendre, au contraire, tâter ce gaillard-là. La chose
 valait la peine d'un voyage, et, comme elle ne pouvait faire ce
@@ -11673,7 +11673,7 @@ qu'elle en avait payé les deux tiers, avouer conséquemment la
 vente de l'immeuble, négociation bien conduite par le marchand, et
 qui ne fut effectivement connue que plus tard.
 
-Malgré le prix très bas de chaque article, madame Bovary mère ne
+Malgré le cours très bas de chaque article, madame Bovary mère ne
 manqua point de trouver la dépense exagérée.
 
 -- Ne pouvait-on se passer d'un tapis? Pourquoi avoir renouvelé

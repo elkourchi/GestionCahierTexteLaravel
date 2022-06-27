@@ -39,10 +39,10 @@ class CahierController extends Controller
     public function store(Request $request)
     {
         $request->validate([
-            'npro' => 'required',
-            'libelle' => 'required',
-            'prix' => 'required',
-            'qstock' => 'required',
+            'classe' => 'required',
+            'date' => 'required',
+            'cours' => 'required',
+            'details' => 'required',
             'description' => 'required',
         ]);
     
@@ -84,10 +84,10 @@ class CahierController extends Controller
     public function update(Request $request, Cahier $Cahier)
     {
         $request->validate([
-            'npro' => 'required',
-            'libelle' => 'required',
-            'prix' => 'required',
-            'qstock' => 'required',
+            'classe' => 'required',
+            'date' => 'required',
+            'cours' => 'required',
+            'details' => 'required',
             'description' => 'required',
         ]);
     

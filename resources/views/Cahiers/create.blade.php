@@ -30,13 +30,13 @@
         <div class="col-xs-6 col-sm-6 col-md-6">
             <div class="form-group">
                 <strong>Classe:</strong>
-                <input type="text" name="npro" class="form-control" placeholder="Saisir une Classe">
+                <input type="text" name="classe" class="form-control" placeholder="Saisir une Classe">
             </div>
         </div>
         <div class="col-xs-6 col-sm-6 col-md-6">
             <div class="form-group">
                 <strong>Date:</strong>
-                <input type="text" name="libelle" class="form-control" placeholder="Saisir une date">
+                <input type="text" name="date" class="form-control" placeholder="Saisir une date">
             </div>
         </div>
     </div>
@@ -44,13 +44,13 @@
         <div class="col-xs-6 col-sm-6 col-md-6">
             <div class="form-group">
                 <strong>Cours:</strong>
-                <input type="text" name="prix" class="form-control" placeholder="Saisir un cours">
+                <input type="text" name="cours" class="form-control" placeholder="Saisir un cours">
             </div>
         </div>
         <div class="col-xs-6 col-sm-6 col-md-6">
             <div class="form-group">
                 <strong>Détails:</strong>
-                <input type="text" name="qstock" class="form-control" placeholder="Saisir des Détails">
+                <input type="text" name="details" class="form-control" placeholder="Saisir des Détails">
             </div>
         </div>
     </div>  

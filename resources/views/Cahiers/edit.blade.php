@@ -23,20 +23,20 @@
         </div>
     @endif
   
-    <form action="{{ route('Cahiers.update',$Cahier->npro) }}" method="POST">
+    <form action="{{ route('Cahiers.update',$Cahier->classe) }}" method="POST">
         @csrf
         @method('PUT')
         <div class="row">
         <div class="col-xs-6 col-sm-6 col-md-6">
             <div class="form-group">
                 <strong>Classe:</strong>
-                <input type="text" name="npro" value="{{ $Cahier->npro }}"class="form-control" placeholder="Saisir un numéro">
+                <input type="text" name="classe" value="{{ $Cahier->classe }}"class="form-control" placeholder="Saisir un numéro">
             </div>
         </div>
         <div class="col-xs-6 col-sm-6 col-md-6">
             <div class="form-group">
                 <strong>Date:</strong>
-                <input type="text" name="libelle" value="{{ $Cahier->libelle }}" class="form-control" placeholder="Saisir un libellé">
+                <input type="text" name="date" value="{{ $Cahier->date }}" class="form-control" placeholder="Saisir un libellé">
             </div>
         </div>
         </div>
@@ -44,13 +44,13 @@
         <div class="col-xs-6 col-sm-6 col-md-6">
             <div class="form-group">
                 <strong>Cours:</strong>
-                <input type="text" name="prix" value="{{ $Cahier->prix }}" class="form-control" placeholder="Saisir un prix">
+                <input type="text" name="cours" value="{{ $Cahier->cours }}" class="form-control" placeholder="Saisir un cours">
             </div>
         </div>
         <div class="col-xs-6 col-sm-6 col-md-6">
             <div class="form-group">
                 <strong>Détails:</strong>
-                <input type="text" name="qstock" value="{{ $Cahier->qstock }}" class="form-control" placeholder="Saisir un stock">
+                <input type="text" name="details" value="{{ $Cahier->details }}" class="form-control" placeholder="Saisir un stock">
             </div>
         </div>
     </div>           

@@ -8,9 +8,9 @@ use Illuminate\Database\Eloquent\Model;
 class Cahier extends Model
 {
     use HasFactory;
-    public $primaryKey = 'npro';
+    public $primaryKey = 'classe';
     public $incrementing = false;
     protected $fillable = [ 
-        'npro', 'libelle', 'prix', 'qstock', 'description' 
+        'classe', 'date', 'cours', 'details', 'description' 
     ];
 }

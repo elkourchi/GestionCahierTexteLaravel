@@ -15,25 +15,25 @@
         <div class="col-xs-12 col-sm-12 col-md-12">
             <div class="form-group">
                 <strong>Classe:</strong>
-                {{ $Cahier->npro }}
+                {{ $Cahier->classe }}
             </div>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12">
             <div class="form-group">
                 <strong>Date:</strong>
-                {{ $Cahier->libelle }}
+                {{ $Cahier->date }}
             </div>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12">
             <div class="form-group">
                 <strong>Cours:</strong>
-                {{ $Cahier->prix }}
+                {{ $Cahier->cours }}
             </div>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12">
             <div class="form-group">
                 <strong>Détails:</strong>
-                {{ $Cahier->qstock }}
+                {{ $Cahier->details }}
             </div>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12">

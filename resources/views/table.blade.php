@@ -16,7 +16,7 @@
         <tr>
             <th>Numéro</th>
             <th>Libellé</th>
-            <th>Prix</th>
+            <th>cours</th>
             <th>Quantité</th>
             <th>Description</th>
             <th width="280px">Action</th>

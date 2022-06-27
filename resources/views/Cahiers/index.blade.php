@@ -30,17 +30,17 @@
         @foreach ($Cahiers as $Cahier)
         <tr>
            
-            <td>{{ $Cahier->npro }}</td>
-            <td>{{ $Cahier->libelle }}</td>
-            <td>{{ $Cahier->prix }}</td>
-            <td>{{ $Cahier->qstock }}</td>
+            <td>{{ $Cahier->classe }}</td>
+            <td>{{ $Cahier->date }}</td>
+            <td>{{ $Cahier->cours }}</td>
+            <td>{{ $Cahier->details }}</td>
             <td>{{ $Cahier->description }}</td>
             <td>
-                <form action="{{ route('Cahiers.destroy',$Cahier->npro) }}" method="POST">
+                <form action="{{ route('Cahiers.destroy',$Cahier->classe) }}" method="POST">
    
-                    <a class="btn btn-outline-primary" href="{{ route('Cahiers.show',$Cahier->npro) }}">Montrer</a>
+                    <a class="btn btn-outline-primary" href="{{ route('Cahiers.show',$Cahier->classe) }}">Montrer</a>
     
-                    <a class="btn btn-outline-success" href="{{ route('Cahiers.edit',$Cahier->npro) }}">Éditer</a>
+                    <a class="btn btn-outline-success" href="{{ route('Cahiers.edit',$Cahier->classe) }}">Éditer</a>
    
                     @csrf
                     @method('DELETE')
